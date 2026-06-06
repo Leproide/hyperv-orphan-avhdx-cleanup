@@ -72,4 +72,4 @@ Provided as-is, without warranty. Test on a non-production VM first. You are res
 
 ## License
 
-MIT (recommended — add a `LICENSE` file).
+GPL V3
